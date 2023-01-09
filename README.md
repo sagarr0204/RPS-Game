@@ -1,2 +1,2 @@
 # RPS-Game
-Builded this game purely using the concepts of Java.
+Built this game purely using the concepts of Java.
